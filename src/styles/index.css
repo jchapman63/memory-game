@@ -1,0 +1,14 @@
+body {
+    position: relative;
+    padding: 1rem 1rem;
+    background: rgb(9,9,121);
+    background: linear-gradient(180deg, rgba(9,9,121,1) 0%, rgba(54,221,252,1) 36%, rgba(4,213,251,1) 100%);
+    background-color: rgba(4,213,251,1);
+    color: white;
+    font-family: 'Delius Swash Caps', cursive;
+}
+
+#root {
+    position:relative;
+    height: 100%;
+}
