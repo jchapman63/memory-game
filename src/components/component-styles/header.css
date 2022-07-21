@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+}
+
+.score-board p {
+    display: inline;
+}
+
+.score {
+    margin-right: 1rem;
+}
+
+.best {
+    margin-left: 1rem;
+}
