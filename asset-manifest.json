@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.b7b1d653.css",
+    "main.js": "/memory-game/static/js/main.4b952713.js",
+    "static/js/787.647465d7.chunk.js": "/memory-game/static/js/787.647465d7.chunk.js",
+    "static/media/emperor-penguin.webp": "/memory-game/static/media/emperor-penguin.f9887e2c039d0f9d0106.webp",
+    "static/media/king-penguin.jpeg": "/memory-game/static/media/king-penguin.a6a1ed4646f47aedfabe.jpeg",
+    "static/media/macaroni-penguin.jpeg": "/memory-game/static/media/macaroni-penguin.6d58f1ad7c742028aefc.jpeg",
+    "static/media/chinstrap-penguin.webp": "/memory-game/static/media/chinstrap-penguin.b0c4fa70e44ed1a790df.webp",
+    "static/media/adelie-penguin.jpeg": "/memory-game/static/media/adelie-penguin.3e8d4ab69d5297b772c6.jpeg",
+    "static/media/rockhopper-penguin.jpg": "/memory-game/static/media/rockhopper-penguin.3a41cc23ea85c1f23f3b.jpg",
+    "static/media/kairuku-penguin.webp": "/memory-game/static/media/kairuku-penguin.96b358f23c08ab13a4ae.webp",
+    "static/media/royal-penguin.webp": "/memory-game/static/media/royal-penguin.5ceb0fb7edfb73fd9070.webp",
+    "static/media/gentoo-penguin.jpeg": "/memory-game/static/media/gentoo-penguin.308c1160d0704ba577e8.jpeg",
+    "index.html": "/memory-game/index.html",
+    "main.b7b1d653.css.map": "/memory-game/static/css/main.b7b1d653.css.map",
+    "main.4b952713.js.map": "/memory-game/static/js/main.4b952713.js.map",
+    "787.647465d7.chunk.js.map": "/memory-game/static/js/787.647465d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b1d653.css",
+    "static/js/main.4b952713.js"
+  ]
+}
